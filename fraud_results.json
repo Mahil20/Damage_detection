@@ -1,0 +1,56 @@
+[
+  {
+    "fraud_detected": false,
+    "delivery_score": 0.6534,
+    "return_score": 0.5834,
+    "score_diff": -0.0699,
+    "threshold": 0.15,
+    "decision": "OK RETURN",
+    "image_id": "order_001"
+  },
+  {
+    "fraud_detected": true,
+    "delivery_score": 0.4449,
+    "return_score": 0.9406,
+    "score_diff": 0.4957,
+    "threshold": 0.15,
+    "decision": "FRAUD",
+    "image_id": "order_002"
+  },
+  {
+    "fraud_detected": true,
+    "delivery_score": 0.0217,
+    "return_score": 0.7867,
+    "score_diff": 0.765,
+    "threshold": 0.15,
+    "decision": "FRAUD",
+    "image_id": "order_003"
+  },
+  {
+    "fraud_detected": true,
+    "delivery_score": 0.0101,
+    "return_score": 0.7723,
+    "score_diff": 0.7622,
+    "threshold": 0.15,
+    "decision": "FRAUD",
+    "image_id": "order_004"
+  },
+  {
+    "fraud_detected": false,
+    "delivery_score": 0.7517,
+    "return_score": 0.6152,
+    "score_diff": -0.1365,
+    "threshold": 0.15,
+    "decision": "OK RETURN",
+    "image_id": "order_005"
+  },
+  {
+    "fraud_detected": false,
+    "delivery_score": 0.6182,
+    "return_score": 0.6241,
+    "score_diff": 0.0059,
+    "threshold": 0.15,
+    "decision": "OK RETURN",
+    "image_id": "order_006"
+  }
+]

@@ -1,0 +1,6 @@
+delivery_image,return_image
+data/order_001_delivery.jpg,data/order_001_return.jpg
+data/order_002_delivery.jpg,data/order_002_return.jpg
+data/order_003_delivery.jpg,data/order_003_return.jpg
+data/order_004_delivery.jpg,data/order_004_return.jpg
+data/order_005_delivery.jpg,data/order_005_return.jpg
